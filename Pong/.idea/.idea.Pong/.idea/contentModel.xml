@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\jaku0065\.Rider2019.1\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\jaku0065\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_Pong.1492735549.00" t="ExcludeRecursive" />
+    <e p="C:\Users\jaku0065\Desktop\MCB\Pong" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="AI.cs" t="Include" />
+        <e p="Script" t="Include">
+          <e p="BackToMainMenuButton.cs" t="Include" />
+          <e p="BallMovement.cs" t="Include" />
+          <e p="BallScript.cs" t="Include" />
+          <e p="PlayButtonMain.cs" t="Include" />
+          <e p="Player1Movement.cs" t="Include" />
+          <e p="Player2Movement.cs" t="Include" />
+          <e p="RacketScript.cs" t="Include" />
+          <e p="Score.cs" t="Include" />
+          <e p="Sound.cs" t="Include" />
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Pong.sln" t="IncludeFlat" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

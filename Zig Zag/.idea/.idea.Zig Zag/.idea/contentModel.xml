@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\jaku0065\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\jaku0065\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_Zig Zag.-1725140043.00" t="ExcludeRecursive" />
+    <e p="C:\Users\jaku0065\Desktop\MCB\Zig Zag" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="3rd Party" t="Include">
+          <e p="Supercyan Character Pack Free Sample" t="Include">
+            <e p="Scripts" t="Include">
+              <e p="CameraLogic.cs" t="Include" />
+              <e p="Demo.cs" t="Include" />
+              <e p="SimpleCharacterControl.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Script" t="Include">
+          <e p="BackgroundLoop.cs" t="Include" />
+          <e p="FollowCamera.cs" t="Include" />
+          <e p="GameManager.cs" t="Include" />
+          <e p="PlayerMovement.cs" t="Include" />
+          <e p="Road.cs" t="Include" />
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+      <e p="Zig Zag.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
